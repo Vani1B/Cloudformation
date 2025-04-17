@@ -52,6 +52,9 @@ Installed Apache server with welcome page
 Allows SSH(port22) and HTTP (port80) inbound traffic
 Uses a provided keypair to allow SSH access
 
+![image](https://github.com/user-attachments/assets/230e4ffb-d7cf-4c68-a722-c530003df6c4)
+
+
 
 
 
