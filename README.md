@@ -47,10 +47,19 @@ route table got created
 
 ![image](https://github.com/user-attachments/assets/f06a2305-f98e-444a-ad18-ceabddb3da5e)
 
-Result : It has launched 3 Ec2 instances
+Result :
+
+It has launched 3 Ec2 instances
+
+
 Installed Apache server with welcome page
+
+
 Allows SSH(port22) and HTTP (port80) inbound traffic
+
+
 Uses a provided keypair to allow SSH access
+
 
 ![image](https://github.com/user-attachments/assets/230e4ffb-d7cf-4c68-a722-c530003df6c4)
 
